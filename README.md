@@ -18,7 +18,7 @@ then go to your html directory, normally it is
 /var/www/html/
 ```
 Then Put the code inside of there, then go to the ip address of the server your hosting it on like 127.0.0.1 or localhost:80 and there you go, You have it!
-
+for the .htaccess remove everything before the .htaccess, github doesnt allow me to upload hidden files
 
 # Support
 No, their is none, Unless I feel like paying attention to the issues of this repo. So have fun!
