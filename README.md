@@ -22,3 +22,5 @@ for the .htaccess remove everything before the .htaccess, github doesnt allow me
 
 # Support
 No, their is none, Unless I feel like paying attention to the issues of this repo. So have fun!
+# cloudflare
+To setup this sites code, you will want to buy a domain, and a VPS. then set up an cloudflare account and add a website, add in your domain name and then with the domain Holder, like godaddy, you want to change the namme servers to what cloudflare says to, once the TTL refreshes you should be able to setup dns setting using an A record to your VPS ip,
